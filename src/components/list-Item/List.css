@@ -1,0 +1,7 @@
+
+.Item-container {
+    display: flex;
+    justify-content: space-between;
+    width: 320px;
+    margin-top: 20px;
+}
